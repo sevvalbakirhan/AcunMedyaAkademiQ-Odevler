@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#SL\\\u00F6dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|c:\\c#sl\\\u00F6dev\\\u00F6dev\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|c:\\c#sl\\\u00F6dev\\\u00F6dev\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|c:\\c#sl\\\u00F6dev\\\u00F6dev\\porche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\porche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|c:\\c#sl\\\u00F6dev\\\u00F6dev\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|c:\\c#sl\\\u00F6dev\\\u00F6dev\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|c:\\c#sl\\\u00F6dev\\\u00F6dev\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|c:\\c#sl\\\u00F6dev\\\u00F6dev\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|c:\\c#sl\\\u00F6dev\\\u00F6dev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7513684C-745C-4C33-9F40-C46A2B5DA08F}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Audi.cs",
+              "DocumentMoniker": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Audi.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\Audi.cs",
+              "ToolTip": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Audi.cs",
+              "RelativeToolTip": "\u00F6dev\\Audi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:56:37.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Bmw.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\Bmw.cs",
+              "ToolTip": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Bmw.cs",
+              "RelativeToolTip": "\u00F6dev\\Bmw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:56:20.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Porche.cs",
+              "DocumentMoniker": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Porche.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\Porche.cs",
+              "ToolTip": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Porche.cs",
+              "RelativeToolTip": "\u00F6dev\\Porche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:55:54.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Mercedes.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\Mercedes.cs",
+              "ToolTip": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Mercedes.cs",
+              "RelativeToolTip": "\u00F6dev\\Mercedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:54:48.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Togg.cs",
+              "DocumentMoniker": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Togg.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\Togg.cs",
+              "ToolTip": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Togg.cs",
+              "RelativeToolTip": "\u00F6dev\\Togg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:54:33.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Toyota.cs",
+              "DocumentMoniker": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Toyota.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\Toyota.cs",
+              "ToolTip": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Toyota.cs",
+              "RelativeToolTip": "\u00F6dev\\Toyota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:50:25.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Araba.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\Araba.cs",
+              "ToolTip": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Araba.cs",
+              "RelativeToolTip": "\u00F6dev\\Araba.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:47:06.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Program.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\Program.cs",
+              "ToolTip": "C:\\c#SL\\\u00F6dev\\\u00F6dev\\Program.cs",
+              "RelativeToolTip": "\u00F6dev\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:46:26.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
