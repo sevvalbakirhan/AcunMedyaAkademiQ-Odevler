@@ -1,0 +1,15 @@
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\bin\Debug\net8.0\ArabaYasi.exe
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\bin\Debug\net8.0\ArabaYasi.deps.json
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\bin\Debug\net8.0\ArabaYasi.runtimeconfig.json
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\bin\Debug\net8.0\ArabaYasi.dll
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\bin\Debug\net8.0\ArabaYasi.pdb
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\obj\Debug\net8.0\ArabaYasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\obj\Debug\net8.0\ArabaYasi.AssemblyInfoInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\obj\Debug\net8.0\ArabaYasi.AssemblyInfo.cs
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\obj\Debug\net8.0\ArabaYasi.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\obj\Debug\net8.0\ArabaYasi.sourcelink.json
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\obj\Debug\net8.0\ArabaYasi.dll
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\obj\Debug\net8.0\refint\ArabaYasi.dll
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\obj\Debug\net8.0\ArabaYasi.pdb
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\obj\Debug\net8.0\ArabaYasi.genruntimeconfig.cache
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\DöngülerİnsanYasi\ArabaYasi\ArabaYasi\ArabaYasi\obj\Debug\net8.0\ref\ArabaYasi.dll

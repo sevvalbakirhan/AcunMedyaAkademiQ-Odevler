@@ -1,0 +1,15 @@
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\bin\Debug\net8.0\BenzinTüketimi.exe
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\bin\Debug\net8.0\BenzinTüketimi.deps.json
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\bin\Debug\net8.0\BenzinTüketimi.runtimeconfig.json
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\bin\Debug\net8.0\BenzinTüketimi.dll
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\bin\Debug\net8.0\BenzinTüketimi.pdb
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\obj\Debug\net8.0\BenzinTüketimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\obj\Debug\net8.0\BenzinTüketimi.AssemblyInfoInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\obj\Debug\net8.0\BenzinTüketimi.AssemblyInfo.cs
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\obj\Debug\net8.0\BenzinTüketimi.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\obj\Debug\net8.0\BenzinTüketimi.sourcelink.json
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\obj\Debug\net8.0\BenzinTüketimi.dll
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\obj\Debug\net8.0\refint\BenzinTüketimi.dll
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\obj\Debug\net8.0\BenzinTüketimi.pdb
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\obj\Debug\net8.0\BenzinTüketimi.genruntimeconfig.cache
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\Döngüler\BenzinTüketimi\BenzinTüketimi\BenzinTüketimi\obj\Debug\net8.0\ref\BenzinTüketimi.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ödev2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5ca166c007e1fab81a5442278426849262e4cd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ödev2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ödev2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
