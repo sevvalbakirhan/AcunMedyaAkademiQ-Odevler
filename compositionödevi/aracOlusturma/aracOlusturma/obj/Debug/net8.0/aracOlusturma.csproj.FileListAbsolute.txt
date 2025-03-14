@@ -1,0 +1,15 @@
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\bin\Debug\net8.0\aracOlusturma.exe
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\bin\Debug\net8.0\aracOlusturma.deps.json
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\bin\Debug\net8.0\aracOlusturma.runtimeconfig.json
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\bin\Debug\net8.0\aracOlusturma.dll
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\bin\Debug\net8.0\aracOlusturma.pdb
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\obj\Debug\net8.0\aracOlusturma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\obj\Debug\net8.0\aracOlusturma.AssemblyInfoInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\obj\Debug\net8.0\aracOlusturma.AssemblyInfo.cs
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\obj\Debug\net8.0\aracOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\obj\Debug\net8.0\aracOlusturma.sourcelink.json
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\obj\Debug\net8.0\aracOlusturma.dll
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\obj\Debug\net8.0\refint\aracOlusturma.dll
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\obj\Debug\net8.0\aracOlusturma.pdb
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\obj\Debug\net8.0\aracOlusturma.genruntimeconfig.cache
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\compositionödevi\aracOlusturma\aracOlusturma\obj\Debug\net8.0\ref\aracOlusturma.dll

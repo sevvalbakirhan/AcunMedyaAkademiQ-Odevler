@@ -1,0 +1,15 @@
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\bin\Debug\net8.0\matematikSınıfı.exe
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\bin\Debug\net8.0\matematikSınıfı.deps.json
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\bin\Debug\net8.0\matematikSınıfı.runtimeconfig.json
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\bin\Debug\net8.0\matematikSınıfı.dll
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\bin\Debug\net8.0\matematikSınıfı.pdb
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\obj\Debug\net8.0\matematikSınıfı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\obj\Debug\net8.0\matematikSınıfı.AssemblyInfoInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\obj\Debug\net8.0\matematikSınıfı.AssemblyInfo.cs
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\obj\Debug\net8.0\matematikSınıfı.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\obj\Debug\net8.0\matematikSınıfı.sourcelink.json
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\obj\Debug\net8.0\matematikSınıfı.dll
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\obj\Debug\net8.0\refint\matematikSınıfı.dll
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\obj\Debug\net8.0\matematikSınıfı.pdb
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\obj\Debug\net8.0\matematikSınıfı.genruntimeconfig.cache
+C:\Users\sevva\OneDrive\Masaüstü\c#SL\overloadingÖdevi\matematikSınıfı\matematikSınıfı\obj\Debug\net8.0\ref\matematikSınıfı.dll
