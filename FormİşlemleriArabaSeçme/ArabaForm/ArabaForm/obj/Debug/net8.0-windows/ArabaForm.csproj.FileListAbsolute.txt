@@ -1,0 +1,17 @@
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\bin\Debug\net8.0-windows\ArabaForm.exe
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\bin\Debug\net8.0-windows\ArabaForm.deps.json
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\bin\Debug\net8.0-windows\ArabaForm.runtimeconfig.json
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\bin\Debug\net8.0-windows\ArabaForm.dll
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\bin\Debug\net8.0-windows\ArabaForm.pdb
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\obj\Debug\net8.0-windows\ArabaForm.Form1.resources
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\obj\Debug\net8.0-windows\ArabaForm.Properties.Resources.resources
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\obj\Debug\net8.0-windows\ArabaForm.csproj.GenerateResource.cache
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\obj\Debug\net8.0-windows\ArabaForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\obj\Debug\net8.0-windows\ArabaForm.AssemblyInfoInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\obj\Debug\net8.0-windows\ArabaForm.AssemblyInfo.cs
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\obj\Debug\net8.0-windows\ArabaForm.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\obj\Debug\net8.0-windows\ArabaForm.dll
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\obj\Debug\net8.0-windows\refint\ArabaForm.dll
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\obj\Debug\net8.0-windows\ArabaForm.pdb
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\obj\Debug\net8.0-windows\ArabaForm.genruntimeconfig.cache
+C:\Users\sevva\OneDrive\Masaüstü\FormİşlemleriArabaSeçme\ArabaForm\ArabaForm\obj\Debug\net8.0-windows\ref\ArabaForm.dll
