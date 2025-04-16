@@ -30,6 +30,7 @@ namespace ProgramTest
     }
 }
 /*Namespace Nedir?
+ * 
 
 Namespace, C# gibi programlama dillerinde sınıfları, metodları ve diğer bileşenleri düzenlemek için kullanılan bir kapsayıcıdır. Büyük projelerde kodun daha düzenli olmasını sağlar ve isim çakışmalarını önler.
 
@@ -60,4 +61,4 @@ Yazılımın Genişletilebilir Olmasını Sağlama Yöntemleri
 *Arayüz ve Soyutlama Kullanma: Arayüzler (Interfaces) ve soyut sınıflar (Abstract Classes), yeni bileşenlerin eklenmesini kolaylaştırır.
 
 *Tasarım Desenlerinden Yararlanma: Factory, Strategy, Observer gibi tasarım desenleri, kodun esnekliğini artırarak genişletilebilirliği sağlar.
-*/
+*/ 

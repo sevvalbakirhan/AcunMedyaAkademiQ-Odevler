@@ -56,3 +56,23 @@ _ReSharper*/
 ## Diğer
 *.DS_Store
 *.Thumbs.db
+.vs/
+*.suo
+*.user
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.cache
+*.log
+*.tlog
+*.pdb
+*.tmp
+*.bak
+*.swp
+bin/
+obj/
+.idea/
+*.vspscc
+*.vssscc
+
