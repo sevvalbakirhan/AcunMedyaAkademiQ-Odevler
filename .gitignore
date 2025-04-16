@@ -1,0 +1,58 @@
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+## Build output
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.dll
+*.exe
+
+## Logs and database
+*.log
+*.tlog
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
+## Rider & ReSharper
+.idea/
+*.sln.iml
+_ReSharper*/
+*.DotSettings.user
+
+## Backup & Cache
+*.cache
+*.bak
+*.swp
+*.tmp
+*.vspscc
+*.vssscc
+*.vsp
+*.vsidx
+
+## Debugging
+*.pdb
+*.mdb
+
+## Paketleme ve Yayın
+*.nupkg
+*.snupkg
+
+## Kişisel Ayarlar
+*.suo
+*.user
+*.sdf
+*.ipch
+
+## Diğer
+*.DS_Store
+*.Thumbs.db
