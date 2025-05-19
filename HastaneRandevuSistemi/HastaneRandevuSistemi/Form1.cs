@@ -121,7 +121,11 @@ namespace HastaneRandevuSistemi
 
         private void btn_randevuOlustur_Click(object sender, EventArgs e)
         {
-       
+            if (txt_tc.Text.Length != 11)
+            {
+                MessageBox.Show("Lütfen geçerli (11 haneli) bir TC Kimlik Numarasý giriniz.");
+                return;
+            }
             if (string.IsNullOrWhiteSpace(txt_ad.Text) || string.IsNullOrWhiteSpace(txt_soyad.Text) ||
                 cmb_brans.SelectedItem == null || cmb_doktor.SelectedItem == null || cmb_saat.SelectedItem == null)
             {
@@ -131,8 +135,11 @@ namespace HastaneRandevuSistemi
 
             string HastaAdi = txt_ad.Text;
             string HastaSoyadi = txt_soyad.Text;
+            string HastaTC = txt_tc.Text;
             int BransID = ((Brans)cmb_brans.SelectedItem).ID;
             int DoktorID = ((Doktor)cmb_doktor.SelectedItem).ID;
+         
+
 
             DateTime tarih = dtp_tarih.Value.Date;
             string saat = cmb_saat.SelectedItem.ToString();
@@ -142,7 +149,7 @@ namespace HastaneRandevuSistemi
             {
                 con.Open();
 
-               
+
                 string kontrolSorgusu = "SELECT COUNT(*) FROM Randevular WHERE DoktorID = @doktorID AND Tarih = @tarih";
                 SqlCommand kontrolCmd = new SqlCommand(kontrolSorgusu, con);
                 kontrolCmd.Parameters.AddWithValue("@doktorID", DoktorID);
@@ -156,14 +163,15 @@ namespace HastaneRandevuSistemi
                     return;
                 }
 
-                string ekleSorgu = @"INSERT INTO Randevular (HastaAdi, HastaSoyadi, BransID, DoktorID, Tarih)
-                             VALUES (@adi, @soyadi, @bransID, @doktorID, @tarih)";
+                string ekleSorgu = @"INSERT INTO Randevular (HastaAdi, HastaSoyadi, BransID, DoktorID, Tarih, HastaTC)
+                             VALUES (@adi, @soyadi, @bransID, @doktorID, @tarih, @tc)";
                 SqlCommand ekleCmd = new SqlCommand(ekleSorgu, con);
                 ekleCmd.Parameters.AddWithValue("@adi", HastaAdi);
                 ekleCmd.Parameters.AddWithValue("@soyadi", HastaSoyadi);
                 ekleCmd.Parameters.AddWithValue("@bransID", BransID);
                 ekleCmd.Parameters.AddWithValue("@doktorID", DoktorID);
                 ekleCmd.Parameters.AddWithValue("@tarih", randevuZamani);
+                ekleCmd.Parameters.AddWithValue("@tc", HastaTC);
 
                 ekleCmd.ExecuteNonQuery();
 
@@ -185,7 +193,8 @@ namespace HastaneRandevuSistemi
                     R.HastaSoyadi AS [Hasta Soyadý],
                     B.BransAdi AS [Branþ],
                     D.DoktorAdi + ' ' + D.DoktorSoyadi AS [Doktor],
-                    R.Tarih AS [Randevu Zamaný]
+                    R.Tarih AS [Randevu Zamaný],
+                    R.HastaTC AS [Hasta TC]
                 FROM Randevular R
                 INNER JOIN Branslar B ON R.BransID = B.ID
                 INNER JOIN Doktorlar D ON R.DoktorID = D.ID
@@ -203,7 +212,10 @@ namespace HastaneRandevuSistemi
                 }
             }
         }
+
+
+      
     }
-    
+
 }
  

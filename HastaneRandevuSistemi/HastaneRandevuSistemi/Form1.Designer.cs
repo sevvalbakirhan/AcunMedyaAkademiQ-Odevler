@@ -43,13 +43,15 @@
             cmb_saat = new ComboBox();
             lbl_tarih = new Label();
             dtp_tarih = new DateTimePicker();
+            txt_tc = new TextBox();
+            lbl_tc = new Label();
             ((System.ComponentModel.ISupportInitialize)dgv_randevular).BeginInit();
             SuspendLayout();
             // 
             // lbl_ad
             // 
             lbl_ad.AutoSize = true;
-            lbl_ad.Location = new Point(48, 45);
+            lbl_ad.Location = new Point(52, 59);
             lbl_ad.Name = "lbl_ad";
             lbl_ad.Size = new Size(35, 20);
             lbl_ad.TabIndex = 0;
@@ -58,7 +60,7 @@
             // lbl_soyad
             // 
             lbl_soyad.AutoSize = true;
-            lbl_soyad.Location = new Point(48, 93);
+            lbl_soyad.Location = new Point(52, 107);
             lbl_soyad.Name = "lbl_soyad";
             lbl_soyad.Size = new Size(57, 20);
             lbl_soyad.TabIndex = 1;
@@ -67,7 +69,7 @@
             // lbl_doktor
             // 
             lbl_doktor.AutoSize = true;
-            lbl_doktor.Location = new Point(48, 186);
+            lbl_doktor.Location = new Point(52, 238);
             lbl_doktor.Name = "lbl_doktor";
             lbl_doktor.Size = new Size(62, 20);
             lbl_doktor.TabIndex = 2;
@@ -76,7 +78,7 @@
             // lbl_brans
             // 
             lbl_brans.AutoSize = true;
-            lbl_brans.Location = new Point(48, 142);
+            lbl_brans.Location = new Point(52, 194);
             lbl_brans.Name = "lbl_brans";
             lbl_brans.Size = new Size(52, 20);
             lbl_brans.TabIndex = 3;
@@ -85,7 +87,7 @@
             // lbl_saat
             // 
             lbl_saat.AutoSize = true;
-            lbl_saat.Location = new Point(50, 266);
+            lbl_saat.Location = new Point(54, 318);
             lbl_saat.Name = "lbl_saat";
             lbl_saat.Size = new Size(45, 20);
             lbl_saat.TabIndex = 4;
@@ -94,7 +96,7 @@
             // cmb_doktor
             // 
             cmb_doktor.FormattingEnabled = true;
-            cmb_doktor.Location = new Point(160, 186);
+            cmb_doktor.Location = new Point(164, 238);
             cmb_doktor.Name = "cmb_doktor";
             cmb_doktor.Size = new Size(250, 28);
             cmb_doktor.TabIndex = 3;
@@ -102,7 +104,7 @@
             // cmb_brans
             // 
             cmb_brans.FormattingEnabled = true;
-            cmb_brans.Location = new Point(160, 139);
+            cmb_brans.Location = new Point(164, 191);
             cmb_brans.Name = "cmb_brans";
             cmb_brans.Size = new Size(250, 28);
             cmb_brans.TabIndex = 2;
@@ -110,21 +112,21 @@
             // 
             // txt_ad
             // 
-            txt_ad.Location = new Point(160, 45);
+            txt_ad.Location = new Point(164, 59);
             txt_ad.Name = "txt_ad";
             txt_ad.Size = new Size(250, 27);
             txt_ad.TabIndex = 0;
             // 
             // txt_soyad
             // 
-            txt_soyad.Location = new Point(160, 93);
+            txt_soyad.Location = new Point(164, 107);
             txt_soyad.Name = "txt_soyad";
             txt_soyad.Size = new Size(250, 27);
             txt_soyad.TabIndex = 1;
             // 
             // btn_randevuOlustur
             // 
-            btn_randevuOlustur.Location = new Point(50, 342);
+            btn_randevuOlustur.Location = new Point(36, 409);
             btn_randevuOlustur.Name = "btn_randevuOlustur";
             btn_randevuOlustur.Size = new Size(414, 29);
             btn_randevuOlustur.TabIndex = 6;
@@ -145,7 +147,7 @@
             // cmb_saat
             // 
             cmb_saat.FormattingEnabled = true;
-            cmb_saat.Location = new Point(160, 266);
+            cmb_saat.Location = new Point(164, 318);
             cmb_saat.Name = "cmb_saat";
             cmb_saat.Size = new Size(250, 28);
             cmb_saat.TabIndex = 5;
@@ -153,7 +155,7 @@
             // lbl_tarih
             // 
             lbl_tarih.AutoSize = true;
-            lbl_tarih.Location = new Point(48, 222);
+            lbl_tarih.Location = new Point(52, 274);
             lbl_tarih.Name = "lbl_tarih";
             lbl_tarih.Size = new Size(47, 20);
             lbl_tarih.TabIndex = 13;
@@ -161,10 +163,26 @@
             // 
             // dtp_tarih
             // 
-            dtp_tarih.Location = new Point(160, 225);
+            dtp_tarih.Location = new Point(164, 277);
             dtp_tarih.Name = "dtp_tarih";
             dtp_tarih.Size = new Size(250, 27);
             dtp_tarih.TabIndex = 4;
+            // 
+            // txt_tc
+            // 
+            txt_tc.Location = new Point(164, 149);
+            txt_tc.Name = "txt_tc";
+            txt_tc.Size = new Size(250, 27);
+            txt_tc.TabIndex = 14;
+            // 
+            // lbl_tc
+            // 
+            lbl_tc.AutoSize = true;
+            lbl_tc.Location = new Point(52, 149);
+            lbl_tc.Name = "lbl_tc";
+            lbl_tc.Size = new Size(56, 20);
+            lbl_tc.TabIndex = 15;
+            lbl_tc.Text = "TC No :";
             // 
             // Form1
             // 
@@ -172,6 +190,8 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(1042, 479);
+            Controls.Add(txt_tc);
+            Controls.Add(lbl_tc);
             Controls.Add(dtp_tarih);
             Controls.Add(lbl_tarih);
             Controls.Add(cmb_saat);
@@ -213,5 +233,7 @@
         private ComboBox cmb_saat;
         private Label lbl_tarih;
         private DateTimePicker dtp_tarih;
+        private TextBox txt_tc;
+        private Label lbl_tc;
     }
 }
